@@ -1,0 +1,10 @@
+name = "OSQP_jll"
+uuid = "9c4f68bf-6205-5545-a508-2878b064d984"
+version = "0.6.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

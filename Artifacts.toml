@@ -1,0 +1,113 @@
+[[OSQP]]
+arch = "i686"
+git-tree-sha1 = "3fe1f688fe5a8703216320003f6c4102324243d9"
+libc = "musl"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "0d8ea9dcacf58ec745c970b251c16c4cb27d26e30af3c8e75935c165ca3b3d44"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.i686-linux-musl.tar.gz"
+[[OSQP]]
+arch = "aarch64"
+git-tree-sha1 = "a54053703af41d45c0126f4017cecf446eaf1b8c"
+libc = "musl"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "78ad77311ebe6d621a226f63a6920877ea8393d62e5abdb201964c4ca580edfc"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.aarch64-linux-musl.tar.gz"
+[[OSQP]]
+arch = "i686"
+git-tree-sha1 = "00924887bc33616d95c3651d91143080d18b1f19"
+os = "windows"
+
+    [[OSQP.download]]
+    sha256 = "1b5886d77b142bb5c85176277c8bcf363ec21a83aedffb827d5a8ffd7ed56ef1"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.i686-w64-mingw32.tar.gz"
+[[OSQP]]
+arch = "x86_64"
+git-tree-sha1 = "e59a09a77a41f17a5a84a17759442bdce34fb914"
+os = "windows"
+
+    [[OSQP.download]]
+    sha256 = "77b7969e5eb719fb75686b896398b19ab36ead406498bd19c9b451ca3e1d9807"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.x86_64-w64-mingw32.tar.gz"
+[[OSQP]]
+arch = "armv7l"
+git-tree-sha1 = "6ae341dc3252677e18551da0450df3351a71f5e5"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "4fb74c6519a13fe5a75da80c2b44ce45262b474dca8d2021c9dcdbe20e680118"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.armv7l-linux-gnueabihf.tar.gz"
+[[OSQP]]
+arch = "armv7l"
+git-tree-sha1 = "4aa590837945e085cad17426cebce09540d9e6f8"
+libc = "musl"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "c3a841bdac8c037df4eca5082828aa90638d5ba2a28bf8f22899a83b537a13ab"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.armv7l-linux-musleabihf.tar.gz"
+[[OSQP]]
+arch = "i686"
+git-tree-sha1 = "7a73292ab6f14151c8601bd1198248e17fe7f3d0"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "6e5e613c26ba0736ac4018f1bf8c91fc660f9fd2288fb5770d711e32dbb0da52"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.i686-linux-gnu.tar.gz"
+[[OSQP]]
+arch = "x86_64"
+git-tree-sha1 = "895d13d7b9d7819316bdf5a51b283cfac9792c29"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "86734eb074eabc12287ea94bdc04045cefbc78c7fe39148489545648723c0dae"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.x86_64-linux-gnu.tar.gz"
+[[OSQP]]
+arch = "powerpc64le"
+git-tree-sha1 = "fcb87c6e2823be16f715b2a86d98e79d035af20e"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "fc937a5f877cb17ab1b9126de75ecf4eb877a4020ab301a78a54b57c50d37856"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.powerpc64le-linux-gnu.tar.gz"
+[[OSQP]]
+arch = "x86_64"
+git-tree-sha1 = "3c158488433ce0110fa531a9a2229556d4718bd0"
+os = "macos"
+
+    [[OSQP.download]]
+    sha256 = "0b0c6e606827b3ee771a489d180a7979eb6a6134519ad590d5881d10c29c6cfb"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.x86_64-apple-darwin14.tar.gz"
+[[OSQP]]
+arch = "aarch64"
+git-tree-sha1 = "0c3b369eb9398abca06149521ffee033878b6509"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "139e7bb6c2210c1b5d792960e2229185ac94289cf7fd55c86c73bf44ca38013f"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.aarch64-linux-gnu.tar.gz"
+[[OSQP]]
+arch = "x86_64"
+git-tree-sha1 = "c656c2de5d9e8f11b5ba8cc063ec3f18533af298"
+os = "freebsd"
+
+    [[OSQP.download]]
+    sha256 = "9f3cfb392085ccef8ce4ca5d76ad2ba6b44fd471040c13527ed1e377b98ff76e"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[OSQP]]
+arch = "x86_64"
+git-tree-sha1 = "64939fbaf030f857cde0f0c08f0e8291d0cb0a96"
+libc = "musl"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "934b618c3e825fd772640fce820bc4745456de579bbddaeb4eb844391534af1c"
+    url = "https://github.com/JuliaBinaryWrappers/OSQP_jll.jl/releases/download/OSQP-v0.6.0+0/OSQP.v0.6.0.x86_64-linux-musl.tar.gz"
