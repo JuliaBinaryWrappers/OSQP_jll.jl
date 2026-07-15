@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("OSQP")
-JLLWrappers.@generate_main_file("OSQP", UUID("9c4f68bf-6205-5545-a508-2878b064d984"))
+JLLWrappers.@generate_main_file("OSQP", Base.UUID("9c4f68bf-6205-5545-a508-2878b064d984"))
 end  # module OSQP_jll
